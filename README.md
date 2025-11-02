@@ -5,5 +5,5 @@
 ### init
 
 ```bash
-cookiecutter gh:timofacea/yandex-kruzhok-template
+cookiecutter gh:timoface/yandex-kruzhok-template
 ```
